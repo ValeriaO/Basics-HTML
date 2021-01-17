@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title>Valeria Pop page</title>
+        <link rel="stylesheet" href="styles.css"/>
+
+    </head>
+    <body style="background-color:#DDF5B5;">
+    <a href="https://www.linkedin.com/in/valeria-pop-oz/" target="_blank">
+        <img src="IMG-20201115-WA0045.jpg" alt="Valeria" height="300px" />
+    </a>
+    <h1>Hello World! This is Valeria, I am a <a href="https://www.linkedin.com/in/valeria-pop-oz/" target="_blank">Technical Recruiter</a></h1>
+    
+    <h2>About me</h2>
+
+    <div style="background:#F5E6B5">
+        <h3>Who am I <span style="color:#8B0BA2">in a nutshell?</span></h3>
+        <ul>
+            <li>Tech Recruiter with 10+ years in HR, Recruitment & Headhunting; in-house, remote, freelance</li>
+            <li>5+ years of hands-on experience in tech recruitment and sofware startups</li>
+            <li>Passionate about tech!</li>
+            <li>Born and raised in Uzbekistan, lived in Russia, France, Germany</li>
+        </ul>
+    </div>
+
+    <div style="background:antiquewhite">
+        <span>My professional experience</span>
+        <ul>
+            <li>Technical Recruiter at FlixMobility, since 10.2019</li>
+            <li>Recruitment Lead at a YCombinator stealth software startup</li>
+            <li>Recruiter at InstatSport</li>
+            <li>Global Talent Acquisition Specialist at Faurecia</li>
+            <li>HR Manager at Itella Connexions</li>
+            <li>HR Specialist at TNS Gallup Media</li>
+            <li>HR Assistant at KPMG</li>
+            <li>Jr. HR Specialist at British American Tobacco</li>
+        </ul>
+    </div>
+
+    <a href="index2.html" target="_blank">Click to read more</a>
+
+    <h2>To contact me fill out the form</h2>
+    <input type="email" placeholder= "Your email"/>
+    <input type="number" />
+    <input type="file" />
+    <input type="button" value="Send" />
+
+<div style="margin-top: 48px;">
+    <div class="box red">What do I love doing?</div>
+    <div class="box green">What do I do well?</div>
+</div>
+
+</body>
+ 
+</html>
